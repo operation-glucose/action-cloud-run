@@ -1,6 +1,6 @@
-name: "Cloud Run"
-description: "Authenticate with gcloud, push image to GCR and deploy as a new revision to Cloud Run"
-author: "David Stefan <stefda@gmail.com>"
+name: "Cloud Run No Build / With Environment Values"
+description: "Fork from https://github.com/stefda/action-cloud-run, adding env files to the actions file"
+author: "Julius Biskopstø <jbiskur@gmail.com>"
 branding:
   icon: "arrow-up-circle"
   color: "green"
